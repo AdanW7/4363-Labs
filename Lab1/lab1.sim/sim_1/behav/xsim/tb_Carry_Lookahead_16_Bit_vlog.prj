@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab1.srcs/sources_1/imports/PA_1_Code_Handout/CarryOuts.v" \
+"../../../../lab1.srcs/sources_1/imports/PA_1_Code_Handout/Carry_Block_1.v" \
+"../../../../lab1.srcs/sources_1/imports/PA_1_Code_Handout/Carry_Block_2.v" \
+"../../../../lab1.srcs/sources_1/imports/PA_1_Code_Handout/Carry_Block_3.v" \
+"../../../../lab1.srcs/sources_1/imports/PA_1_Code_Handout/Carry_Block_4.v" \
+"../../../../lab1.srcs/sources_1/imports/PA_1_Code_Handout/Carry_Lookahead_16_bit.v" \
+"../../../../lab1.srcs/sources_1/imports/PA_1_Code_Handout/Carry_Lookahead_Adder.v" \
+"../../../../lab1.srcs/sources_1/imports/PA_1_Code_Handout/SuperPG_Block.v" \
+"../../../../lab1.srcs/sources_1/imports/PA_1_Code_Handout/pg_Block.v" \
+"../../../../lab1.srcs/sources_1/imports/PA_1_Code_Handout/tb_Carry_Lookahead_16_Bit.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
