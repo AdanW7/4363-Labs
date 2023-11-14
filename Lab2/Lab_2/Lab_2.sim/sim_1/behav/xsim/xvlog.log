@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/control.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/cpu.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CPU
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/decode.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decode
+WARNING: [VRFC 10-3380] identifier 'no_op' is used before its declaration [/home/wodzi003/Downloads/handout/decode.sv:18]
+WARNING: [VRFC 10-3380] identifier 'no_op' is used before its declaration [/home/wodzi003/Downloads/handout/decode.sv:19]
+WARNING: [VRFC 10-3380] identifier 'no_op' is used before its declaration [/home/wodzi003/Downloads/handout/decode.sv:20]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/execute.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module execute
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/fetch.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fetch
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/forward.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module forward
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/mem.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem
+WARNING: [VRFC 10-3380] identifier 'no_op' is used before its declaration [/home/wodzi003/Downloads/handout/mem.sv:16]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/pcr.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pcr
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/wb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wb
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/tb_cpu.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_cpu_p1

@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/testing_path/parameters.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/testing_path/control.sv" into library work
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/testing_path/decode.sv" into library work
+INFO: [VRFC 10-311] analyzing module decode
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/testing_path/fetch.sv" into library work
+INFO: [VRFC 10-311] analyzing module fetch
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/testing_path/forward.sv" into library work
+INFO: [VRFC 10-311] analyzing module forward
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/testing_path/mem.sv" into library work
+INFO: [VRFC 10-311] analyzing module mem
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/testing_path/pcr.sv" into library work
+INFO: [VRFC 10-311] analyzing module pcr
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/testing_path/wb.sv" into library work
+INFO: [VRFC 10-311] analyzing module wb
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/testing_path/execute.sv" into library work
+INFO: [VRFC 10-311] analyzing module execute
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/testing_path/cpu.sv" into library work
+INFO: [VRFC 10-311] analyzing module CPU
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/wodzi003/Downloads/handout/testing_path/tb_cpu.sv" into library work
+INFO: [VRFC 10-311] analyzing module tb_cpu_p1

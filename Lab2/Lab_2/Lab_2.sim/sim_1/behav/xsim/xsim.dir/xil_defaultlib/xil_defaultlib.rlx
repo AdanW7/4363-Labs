@@ -1,0 +1,16 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/wodzi003/Downloads/Lab_2/Lab_2.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+/home/wodzi003/Downloads/handout/control.sv,1698164507,systemVerilog,,/home/wodzi003/Downloads/handout/cpu.sv,/home/wodzi003/Downloads/handout/parameters.sv,control,,uvm,,,,,,
+/home/wodzi003/Downloads/handout/cpu.sv,1698180502,systemVerilog,,/home/wodzi003/Downloads/handout/decode.sv,/home/wodzi003/Downloads/handout/parameters.sv,CPU,,uvm,,,,,,
+/home/wodzi003/Downloads/handout/decode.sv,1699763665,systemVerilog,,/home/wodzi003/Downloads/handout/execute.sv,/home/wodzi003/Downloads/handout/parameters.sv,decode,,uvm,,,,,,
+/home/wodzi003/Downloads/handout/execute.sv,1699746328,systemVerilog,,/home/wodzi003/Downloads/handout/fetch.sv,/home/wodzi003/Downloads/handout/parameters.sv,execute,,uvm,,,,,,
+/home/wodzi003/Downloads/handout/fetch.sv,1698164507,systemVerilog,,/home/wodzi003/Downloads/handout/forward.sv,/home/wodzi003/Downloads/handout/parameters.sv,fetch,,uvm,,,,,,
+/home/wodzi003/Downloads/handout/forward.sv,1698164947,systemVerilog,,/home/wodzi003/Downloads/handout/mem.sv,,forward,,uvm,,,,,,
+/home/wodzi003/Downloads/handout/mem.sv,1698165160,systemVerilog,,/home/wodzi003/Downloads/handout/pcr.sv,/home/wodzi003/Downloads/handout/parameters.sv,mem,,uvm,,,,,,
+/home/wodzi003/Downloads/handout/parameters.sv,1699810167,verilog,,,,,,,,,,,,
+/home/wodzi003/Downloads/handout/pcr.sv,1698180480,systemVerilog,,/home/wodzi003/Downloads/handout/wb.sv,,pcr,,uvm,,,,,,
+/home/wodzi003/Downloads/handout/tb_cpu.sv,1698164507,systemVerilog,,,,tb_cpu_p1,,uvm,,,,,,
+/home/wodzi003/Downloads/handout/wb.sv,1698165186,systemVerilog,,/home/wodzi003/Downloads/handout/tb_cpu.sv,/home/wodzi003/Downloads/handout/parameters.sv,wb,,uvm,,,,,,

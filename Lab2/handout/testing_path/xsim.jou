@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# xsim v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Nov 14 10:32:15 2023
+# Process ID: 663134
+# Current directory: /home/wodzi003/Downloads/handout/testing_path
+# Command line: xsim -mode tcl -source {xsim.dir/top_sim/xsim_script.tcl}
+# Log file: /home/wodzi003/Downloads/handout/testing_path/xsim.log
+# Journal file: /home/wodzi003/Downloads/handout/testing_path/xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/top_sim/xsim_script.tcl
+run -all

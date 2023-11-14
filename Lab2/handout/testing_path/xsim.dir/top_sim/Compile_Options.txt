@@ -1,0 +1,1 @@
+-debug "typical" "tb_cpu_p1" -s "top_sim" 

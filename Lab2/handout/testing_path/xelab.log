@@ -1,0 +1,22 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: /soft/Vivado_Webpack/Vivado_Webpack/Vivado/2020.2/bin/unwrapped/lnx64.o/xelab -debug typical tb_cpu_p1 -s top_sim 
+Multi-threading is on. Using 4 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package work.$unit_parameters_sv
+Compiling module work.control
+Compiling module work.pcr
+Compiling module work.fetch_1
+Compiling module work.decode_1
+Compiling module work.forward
+Compiling module work.execute
+Compiling module work.mem_1
+Compiling module work.wb_1
+Compiling module work.CPU
+Compiling module work.tb_cpu_p1
+Built simulation snapshot top_sim

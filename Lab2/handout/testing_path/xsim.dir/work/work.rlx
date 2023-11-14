@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/wodzi003/Downloads/handout/testing_path/control.sv,1699979524,systemVerilog,,/home/wodzi003/Downloads/handout/testing_path/decode.sv,/home/wodzi003/Downloads/handout/testing_path/parameters.sv,control,,,,,,,,
+/home/wodzi003/Downloads/handout/testing_path/cpu.sv,1699979524,systemVerilog,,/home/wodzi003/Downloads/handout/testing_path/tb_cpu.sv,/home/wodzi003/Downloads/handout/testing_path/parameters.sv,CPU,,,,,,,,
+/home/wodzi003/Downloads/handout/testing_path/decode.sv,1699979524,systemVerilog,,/home/wodzi003/Downloads/handout/testing_path/fetch.sv,/home/wodzi003/Downloads/handout/testing_path/parameters.sv,decode,,,,,,,,
+/home/wodzi003/Downloads/handout/testing_path/execute.sv,1699979524,systemVerilog,,/home/wodzi003/Downloads/handout/testing_path/cpu.sv,/home/wodzi003/Downloads/handout/testing_path/parameters.sv,execute,,,,,,,,
+/home/wodzi003/Downloads/handout/testing_path/fetch.sv,1699979524,systemVerilog,,/home/wodzi003/Downloads/handout/testing_path/forward.sv,/home/wodzi003/Downloads/handout/testing_path/parameters.sv,fetch,,,,,,,,
+/home/wodzi003/Downloads/handout/testing_path/forward.sv,1699979524,systemVerilog,,/home/wodzi003/Downloads/handout/testing_path/mem.sv,,forward,,,,,,,,
+/home/wodzi003/Downloads/handout/testing_path/mem.sv,1699979524,systemVerilog,,/home/wodzi003/Downloads/handout/testing_path/pcr.sv,/home/wodzi003/Downloads/handout/testing_path/parameters.sv,mem,,,,,,,,
+/home/wodzi003/Downloads/handout/testing_path/parameters.sv,1699979524,systemVerilog,/home/wodzi003/Downloads/handout/testing_path/control.sv;/home/wodzi003/Downloads/handout/testing_path/cpu.sv;/home/wodzi003/Downloads/handout/testing_path/decode.sv;/home/wodzi003/Downloads/handout/testing_path/execute.sv;/home/wodzi003/Downloads/handout/testing_path/fetch.sv;/home/wodzi003/Downloads/handout/testing_path/forward.sv;/home/wodzi003/Downloads/handout/testing_path/mem.sv;/home/wodzi003/Downloads/handout/testing_path/pcr.sv;/home/wodzi003/Downloads/handout/testing_path/tb_cpu.sv;/home/wodzi003/Downloads/handout/testing_path/wb.sv,/home/wodzi003/Downloads/handout/testing_path/control.sv,,$unit_parameters_sv,,,,,,,,
+/home/wodzi003/Downloads/handout/testing_path/pcr.sv,1699979524,systemVerilog,,/home/wodzi003/Downloads/handout/testing_path/wb.sv,,pcr,,,,,,,,
+/home/wodzi003/Downloads/handout/testing_path/tb_cpu.sv,1699979524,systemVerilog,,,,tb_cpu_p1,,,,,,,,
+/home/wodzi003/Downloads/handout/testing_path/wb.sv,1699979524,systemVerilog,,/home/wodzi003/Downloads/handout/testing_path/execute.sv,/home/wodzi003/Downloads/handout/testing_path/parameters.sv,wb,,,,,,,,

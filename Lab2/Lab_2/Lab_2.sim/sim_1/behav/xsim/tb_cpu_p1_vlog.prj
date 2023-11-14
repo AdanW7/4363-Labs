@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../handout/control.sv" \
+"../../../../../handout/cpu.sv" \
+"../../../../../handout/decode.sv" \
+"../../../../../handout/execute.sv" \
+"../../../../../handout/fetch.sv" \
+"../../../../../handout/forward.sv" \
+"../../../../../handout/mem.sv" \
+"../../../../../handout/pcr.sv" \
+"../../../../../handout/wb.sv" \
+"../../../../../handout/tb_cpu.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
