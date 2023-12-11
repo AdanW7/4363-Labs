@@ -1,0 +1,2085 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Idle state
+  15.000ns: [CPU] read addr=0001c010
+Idle state
+Idle state
+Compare tag state
+  18.000ns: [FSM] Tag Write @ index=001 with tag=00007 with line_num = 03
+Allocating...
+  22.000ns: [Memory]  Read @ addr=0001c010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+ 122.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+ 122.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+ 122.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+ 122.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+ 126.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+ 322.000ns: [CPU] read addr=00004010
+Idle state
+Compare tag state
+ 322.000ns: [FSM] Tag Write @ index=001 with tag=00001 with line_num = 01
+Allocating...
+Compare tag state
+ 322.000ns: [FSM] Tag Write @ index=001 with tag=00001 with line_num = 01
+Allocating...
+ 326.000ns: [Memory]  Read @ addr=00004010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+ 426.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+ 426.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+ 426.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+ 426.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+ 430.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+ 626.000ns: [CPU] read addr=00008020
+Idle state
+Idle state
+Compare tag state
+ 626.000ns: [FSM] Tag Write @ index=002 with tag=00002 with line_num = 03
+Allocating...
+ 630.000ns: [Memory]  Read @ addr=00008020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+ 730.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+ 730.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+ 730.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+ 730.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+ 734.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+ 930.000ns: [CPU] read addr=00004010
+Idle state
+Idle state
+Compare tag state
+ 930.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+ 930.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+ 930.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Idle state
+
+
+1130.000ns: [CPU] read addr=00040020
+Idle state
+Idle state
+Compare tag state
+1130.000ns: [FSM] Tag Write @ index=002 with tag=00010 with line_num = 01
+Allocating...
+1134.000ns: [Memory]  Read @ addr=00040020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+1234.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+1234.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+1234.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+1234.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+1238.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+1434.000ns: [CPU] read addr=00024010
+Idle state
+Idle state
+Compare tag state
+1434.000ns: [FSM] Tag Write @ index=001 with tag=00009 with line_num = 02
+Allocating...
+Compare tag state
+1434.000ns: [FSM] Tag Write @ index=001 with tag=00009 with line_num = 02
+Allocating...
+1438.000ns: [Memory]  Read @ addr=00024010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+1538.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+1538.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+1538.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+1538.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+1542.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+1738.000ns: [CPU] read addr=00010020
+Idle state
+Idle state
+Compare tag state
+1738.000ns: [FSM] Tag Write @ index=002 with tag=00004 with line_num = 02
+Allocating...
+1742.000ns: [Memory]  Read @ addr=00010020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+1842.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+1842.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+1842.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+1842.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+1846.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+2042.000ns: [CPU] read addr=0000c020
+Idle state
+Compare tag state
+2042.000ns: [FSM] Tag Write @ index=002 with tag=00003 with line_num = 00
+Allocating...
+Compare tag state
+2042.000ns: [FSM] Tag Write @ index=002 with tag=00003 with line_num = 00
+Allocating...
+2046.000ns: [Memory]  Read @ addr=0000c020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+2146.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+2146.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+2146.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+2146.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+2150.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+2346.000ns: [CPU] read addr=00010020
+Idle state
+Compare tag state
+2346.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+2346.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+2346.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+2350.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+2546.000ns: [CPU] read addr=00024020
+Idle state
+Compare tag state
+2546.000ns: [FSM] Tag Write @ index=002 with tag=00009 with line_num = 01
+Allocating...
+2550.000ns: [Memory]  Read @ addr=00024020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+2650.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+2650.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+2650.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+2650.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+2654.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+2850.000ns: [CPU] read addr=0001c010
+Idle state
+Idle state
+Compare tag state
+2850.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+2850.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+2850.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Idle state
+
+
+3050.000ns: [CPU] read addr=0000c010
+Idle state
+Compare tag state
+3050.000ns: [FSM] Tag Write @ index=001 with tag=00003 with line_num = 00
+Allocating...
+Compare tag state
+3050.000ns: [FSM] Tag Write @ index=001 with tag=00003 with line_num = 00
+Allocating...
+3054.000ns: [Memory]  Read @ addr=0000c010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+3154.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+3154.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+3154.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+3154.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+3158.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+3354.000ns: [CPU] read addr=00004020
+Idle state
+Idle state
+Compare tag state
+3354.000ns: [FSM] Tag Write @ index=002 with tag=00001 with line_num = 03
+Allocating...
+3358.000ns: [Memory]  Read @ addr=00004020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+3458.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+3458.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+3458.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+3458.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+3462.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+3658.000ns: [CPU] read addr=00010010
+Idle state
+Idle state
+Compare tag state
+3658.000ns: [FSM] Tag Write @ index=001 with tag=00004 with line_num = 02
+Allocating...
+3662.000ns: [Memory]  Read @ addr=00010010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+3762.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+3762.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+3762.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+3762.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+3766.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+3962.000ns: [CPU] read addr=00024010
+Idle state
+Compare tag state
+3962.000ns: [FSM] Tag Write @ index=001 with tag=00009 with line_num = 01
+Allocating...
+3966.000ns: [Memory]  Read @ addr=00024010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+4066.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+4066.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+4066.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+4066.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+4070.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+4266.000ns: [CPU] read addr=00008020
+Idle state
+Idle state
+Compare tag state
+4266.000ns: [FSM] Tag Write @ index=002 with tag=00002 with line_num = 00
+Allocating...
+4270.000ns: [Memory]  Read @ addr=00008020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+4370.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+4370.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+4370.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+4370.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+4374.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+4570.000ns: [CPU] read addr=00020010
+Idle state
+Idle state
+Compare tag state
+4570.000ns: [FSM] Tag Write @ index=001 with tag=00008 with line_num = 03
+Allocating...
+4574.000ns: [Memory]  Read @ addr=00020010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+4674.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+4674.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+4674.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+4674.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+4678.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+4874.000ns: [CPU] read addr=00018020
+Idle state
+Idle state
+Compare tag state
+4874.000ns: [FSM] Tag Write @ index=002 with tag=00006 with line_num = 02
+Allocating...
+4878.000ns: [Memory]  Read @ addr=00018020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+4978.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+4978.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+4978.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+4978.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+4982.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+5178.000ns: [CPU] read addr=00008020
+Idle state
+Compare tag state
+5178.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+5178.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+5178.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+5182.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+5378.000ns: [CPU] read addr=00004020
+Idle state
+Compare tag state
+5378.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+5378.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+5378.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+5382.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+5578.000ns: [CPU] read addr=00004010
+Idle state
+Idle state
+Compare tag state
+5578.000ns: [FSM] Tag Write @ index=001 with tag=00001 with line_num = 00
+Allocating...
+5582.000ns: [Memory]  Read @ addr=00004010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+5682.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+5682.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+5682.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+5682.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+5686.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+5882.000ns: [CPU] read addr=00018020
+Idle state
+Idle state
+Compare tag state
+5882.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+5882.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+5882.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Idle state
+
+
+6082.000ns: [CPU] read addr=0001c020
+Idle state
+Compare tag state
+6082.000ns: [FSM] Tag Write @ index=002 with tag=00007 with line_num = 01
+Allocating...
+6086.000ns: [Memory]  Read @ addr=0001c020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+6186.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+6186.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+6186.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+6186.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+6190.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+6386.000ns: [CPU] read addr=00008010
+Idle state
+Idle state
+Compare tag state
+6386.000ns: [FSM] Tag Write @ index=001 with tag=00002 with line_num = 02
+Allocating...
+6390.000ns: [Memory]  Read @ addr=00008010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+6490.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+6490.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+6490.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+6490.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+6494.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+6690.000ns: [CPU] read addr=0000c010
+Idle state
+Compare tag state
+6690.000ns: [FSM] Tag Write @ index=001 with tag=00003 with line_num = 01
+Allocating...
+6694.000ns: [Memory]  Read @ addr=0000c010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+6794.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+6794.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+6794.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+6794.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+6798.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+6994.000ns: [CPU] read addr=0000c010
+Idle state
+Compare tag state
+6994.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+6994.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+6994.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Idle state
+
+
+7194.000ns: [CPU] read addr=00010010
+Idle state
+Compare tag state
+7194.000ns: [FSM] Tag Write @ index=001 with tag=00004 with line_num = 03
+Allocating...
+7198.000ns: [Memory]  Read @ addr=00010010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+7298.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+7298.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+7298.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+7298.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+7302.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+7498.000ns: [CPU] read addr=00004020
+Idle state
+Idle state
+Compare tag state
+7498.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+7498.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+7498.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+7502.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+7698.000ns: [CPU] read addr=00004010
+Idle state
+Idle state
+Compare tag state
+7698.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+7698.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+7698.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+7702.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+7898.000ns: [CPU] read addr=0001c020
+Idle state
+Idle state
+Compare tag state
+7898.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+7898.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+7898.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+7902.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+8098.000ns: [CPU] read addr=00040010
+Idle state
+Idle state
+Compare tag state
+8098.000ns: [FSM] Tag Write @ index=001 with tag=00010 with line_num = 02
+Allocating...
+8102.000ns: [Memory]  Read @ addr=00040010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+8202.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+8202.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+8202.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+8202.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+8206.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+8402.000ns: [CPU] read addr=00024010
+Idle state
+Compare tag state
+8402.000ns: [FSM] Tag Write @ index=001 with tag=00009 with line_num = 01
+Allocating...
+8406.000ns: [Memory]  Read @ addr=00024010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+8506.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+8506.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+8506.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+8506.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+8510.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+8706.000ns: [CPU] read addr=00008010
+Idle state
+Compare tag state
+8706.000ns: [FSM] Tag Write @ index=001 with tag=00002 with line_num = 03
+Allocating...
+8710.000ns: [Memory]  Read @ addr=00008010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+8810.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+8810.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+8810.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+8810.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+8814.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+9010.000ns: [CPU] read addr=00020020
+Idle state
+Idle state
+Compare tag state
+9010.000ns: [FSM] Tag Write @ index=002 with tag=00008 with line_num = 02
+Allocating...
+9014.000ns: [Memory]  Read @ addr=00020020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+9114.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+9114.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+9114.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+9114.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+9118.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+9314.000ns: [CPU] read addr=0000c010
+Idle state
+Idle state
+Compare tag state
+9314.000ns: [FSM] Tag Write @ index=001 with tag=00003 with line_num = 00
+Allocating...
+9318.000ns: [Memory]  Read @ addr=0000c010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+9418.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+9418.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+9418.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+9418.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+9422.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+9618.000ns: [CPU] read addr=00040010
+Idle state
+Compare tag state
+9618.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+9618.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+9618.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+9622.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+9818.000ns: [CPU] read addr=00020010
+Idle state
+Compare tag state
+9818.000ns: [FSM] Tag Write @ index=001 with tag=00008 with line_num = 01
+Allocating...
+9822.000ns: [Memory]  Read @ addr=00020010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+9922.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+9922.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+9922.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+9922.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+9926.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+10122.000ns: [CPU] read addr=0001c020
+Idle state
+Idle state
+Compare tag state
+10122.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+10122.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+10122.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+10126.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+10322.000ns: [CPU] read addr=00018020
+Idle state
+Compare tag state
+10322.000ns: [FSM] Tag Write @ index=002 with tag=00006 with line_num = 03
+Allocating...
+10326.000ns: [Memory]  Read @ addr=00018020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+10426.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+10426.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+10426.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+10426.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+10430.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+10626.000ns: [CPU] read addr=00024020
+Idle state
+Compare tag state
+10626.000ns: [FSM] Tag Write @ index=002 with tag=00009 with line_num = 00
+Allocating...
+10630.000ns: [Memory]  Read @ addr=00024020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+10730.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+10730.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+10730.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+10730.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+10734.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+10930.000ns: [CPU] read addr=00008010
+Idle state
+Idle state
+Compare tag state
+10930.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+10930.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+10930.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+10934.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+11130.000ns: [CPU] read addr=00014020
+Idle state
+Idle state
+Compare tag state
+11130.000ns: [FSM] Tag Write @ index=002 with tag=00005 with line_num = 02
+Allocating...
+11134.000ns: [Memory]  Read @ addr=00014020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+11234.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+11234.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+11234.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+11234.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+11238.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+11434.000ns: [CPU] read addr=00024020
+Idle state
+Compare tag state
+11434.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+11434.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+11434.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+11438.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+11634.000ns: [CPU] read addr=00018020
+Idle state
+Compare tag state
+11634.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+11634.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+11634.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+11638.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+11834.000ns: [CPU] read addr=00014010
+Idle state
+Idle state
+Compare tag state
+11834.000ns: [FSM] Tag Write @ index=001 with tag=00005 with line_num = 00
+Allocating...
+11838.000ns: [Memory]  Read @ addr=00014010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+11938.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+11938.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+11938.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+11938.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+11942.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+12138.000ns: [CPU] read addr=00020010
+Idle state
+Compare tag state
+12138.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+12138.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+12138.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Idle state
+
+
+12338.000ns: [CPU] read addr=00040020
+Idle state
+Idle state
+Compare tag state
+12338.000ns: [FSM] Tag Write @ index=002 with tag=00010 with line_num = 01
+Allocating...
+12342.000ns: [Memory]  Read @ addr=00040020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+12442.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+12442.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+12442.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+12442.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+12446.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+12642.000ns: [CPU] read addr=00010010
+Idle state
+Idle state
+Compare tag state
+12642.000ns: [FSM] Tag Write @ index=001 with tag=00004 with line_num = 02
+Allocating...
+12646.000ns: [Memory]  Read @ addr=00010010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+12746.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+12746.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+12746.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+12746.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+12750.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+12946.000ns: [CPU] read addr=0001c020
+Idle state
+Idle state
+Compare tag state
+12946.000ns: [FSM] Tag Write @ index=002 with tag=00007 with line_num = 02
+Allocating...
+12950.000ns: [Memory]  Read @ addr=0001c020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+13050.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+13050.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+13050.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+13050.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+13054.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+13250.000ns: [CPU] read addr=0001c020
+Idle state
+Compare tag state
+13250.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+13250.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+13250.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Idle state
+
+
+13450.000ns: [CPU] read addr=00040010
+Idle state
+Idle state
+Compare tag state
+13450.000ns: [FSM] Tag Write @ index=001 with tag=00010 with line_num = 00
+Allocating...
+13454.000ns: [Memory]  Read @ addr=00040010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+13554.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+13554.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+13554.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+13554.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+13558.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+13754.000ns: [CPU] read addr=00008010
+Idle state
+Compare tag state
+13754.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+13754.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+13754.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+13758.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+13954.000ns: [CPU] read addr=0000c010
+Idle state
+Compare tag state
+13954.000ns: [FSM] Tag Write @ index=001 with tag=00003 with line_num = 01
+Allocating...
+13958.000ns: [Memory]  Read @ addr=0000c010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+14058.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+14058.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+14058.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+14058.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+14062.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+14258.000ns: [CPU] read addr=00040010
+Idle state
+Compare tag state
+14258.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+14258.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+14258.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Idle state
+
+
+14458.000ns: [CPU] read addr=00040020
+Idle state
+Idle state
+Compare tag state
+14458.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+14458.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+14458.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+14462.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+14658.000ns: [CPU] read addr=00010010
+Idle state
+Idle state
+Compare tag state
+14658.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+14658.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+14658.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+14662.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+14858.000ns: [CPU] read addr=0000c010
+Idle state
+Compare tag state
+14858.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+14858.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+14858.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+14862.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+15058.000ns: [CPU] read addr=00018020
+Idle state
+Idle state
+Compare tag state
+15058.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+15058.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+15058.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+15062.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+15258.000ns: [CPU] read addr=00014020
+Idle state
+Compare tag state
+15258.000ns: [FSM] Tag Write @ index=002 with tag=00005 with line_num = 00
+Allocating...
+15262.000ns: [Memory]  Read @ addr=00014020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+15362.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+15362.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+15362.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+15362.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+15366.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+15562.000ns: [CPU] read addr=00024020
+Idle state
+Compare tag state
+15562.000ns: [FSM] Tag Write @ index=002 with tag=00009 with line_num = 02
+Allocating...
+15566.000ns: [Memory]  Read @ addr=00024020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+15666.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+15666.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+15666.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+15666.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+15670.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+15866.000ns: [CPU] read addr=0001c010
+Idle state
+Idle state
+Compare tag state
+15866.000ns: [FSM] Tag Write @ index=001 with tag=00007 with line_num = 03
+Allocating...
+15870.000ns: [Memory]  Read @ addr=0001c010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+15970.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+15970.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+15970.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+15970.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+15974.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+16170.000ns: [CPU] read addr=00024020
+Idle state
+Idle state
+Compare tag state
+16170.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+16170.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+16170.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Idle state
+
+
+16370.000ns: [CPU] read addr=00018010
+Idle state
+Idle state
+Compare tag state
+16370.000ns: [FSM] Tag Write @ index=001 with tag=00006 with line_num = 00
+Allocating...
+16374.000ns: [Memory]  Read @ addr=00018010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+16474.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+16474.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+16474.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+16474.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+16478.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+16674.000ns: [CPU] read addr=0001c020
+Idle state
+Idle state
+Compare tag state
+16674.000ns: [FSM] Tag Write @ index=002 with tag=00007 with line_num = 01
+Allocating...
+16678.000ns: [Memory]  Read @ addr=0001c020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+16778.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+16778.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+16778.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+16778.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+16782.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+16978.000ns: [CPU] read addr=0001c020
+Idle state
+Compare tag state
+16978.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+16978.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+16978.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Idle state
+
+
+17178.000ns: [CPU] read addr=00040010
+Idle state
+Idle state
+Compare tag state
+17178.000ns: [FSM] Tag Write @ index=001 with tag=00010 with line_num = 02
+Allocating...
+17182.000ns: [Memory]  Read @ addr=00040010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+17282.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+17282.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+17282.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+17282.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+17286.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+17482.000ns: [CPU] read addr=00024020
+Idle state
+Idle state
+Compare tag state
+17482.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+17482.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+17482.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+17486.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+17682.000ns: [CPU] read addr=00010020
+Idle state
+Compare tag state
+17682.000ns: [FSM] Tag Write @ index=002 with tag=00004 with line_num = 00
+Allocating...
+17686.000ns: [Memory]  Read @ addr=00010020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+17786.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+17786.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+17786.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+17786.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+17790.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+17986.000ns: [CPU] read addr=00010020
+Idle state
+Compare tag state
+17986.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+17986.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+17986.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Idle state
+
+
+18186.000ns: [CPU] read addr=0001c020
+Idle state
+Compare tag state
+18186.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+18186.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+18186.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Idle state
+
+
+18386.000ns: [CPU] read addr=0000c020
+Idle state
+Compare tag state
+18386.000ns: [FSM] Tag Write @ index=002 with tag=00003 with line_num = 03
+Allocating...
+18390.000ns: [Memory]  Read @ addr=0000c020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+18490.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+18490.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+18490.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+18490.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+18494.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+18690.000ns: [CPU] read addr=00010010
+Idle state
+Idle state
+Compare tag state
+18690.000ns: [FSM] Tag Write @ index=001 with tag=00004 with line_num = 01
+Allocating...
+18694.000ns: [Memory]  Read @ addr=00010010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+18794.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+18794.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+18794.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+18794.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+18798.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+18994.000ns: [CPU] read addr=00024020
+Idle state
+Idle state
+Compare tag state
+18994.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+18994.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+18994.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Idle state
+
+
+19194.000ns: [CPU] read addr=0000c020
+Idle state
+Compare tag state
+19194.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+19194.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+19194.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Idle state
+
+
+19394.000ns: [CPU] read addr=00014020
+Idle state
+Compare tag state
+19394.000ns: [FSM] Tag Write @ index=002 with tag=00005 with line_num = 00
+Allocating...
+19398.000ns: [Memory]  Read @ addr=00014020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+19498.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+19498.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+19498.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+19498.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+19502.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+19698.000ns: [CPU] read addr=00004010
+Idle state
+Idle state
+Compare tag state
+19698.000ns: [FSM] Tag Write @ index=001 with tag=00001 with line_num = 03
+Allocating...
+19702.000ns: [Memory]  Read @ addr=00004010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+19802.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+19802.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+19802.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+19802.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+19806.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+20002.000ns: [CPU] read addr=00010020
+Idle state
+Idle state
+Compare tag state
+20002.000ns: [FSM] Tag Write @ index=002 with tag=00004 with line_num = 02
+Allocating...
+20006.000ns: [Memory]  Read @ addr=00010020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+20106.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+20106.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+20106.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+20106.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+20110.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+20306.000ns: [CPU] read addr=00018020
+Idle state
+Compare tag state
+20306.000ns: [FSM] Tag Write @ index=002 with tag=00006 with line_num = 01
+Allocating...
+20310.000ns: [Memory]  Read @ addr=00018020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+20410.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+20410.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+20410.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+20410.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+20414.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+20610.000ns: [CPU] read addr=00010020
+Idle state
+Compare tag state
+20610.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+20610.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+20610.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+20614.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+20810.000ns: [CPU] read addr=0000c010
+Idle state
+Idle state
+Compare tag state
+20810.000ns: [FSM] Tag Write @ index=001 with tag=00003 with line_num = 00
+Allocating...
+20814.000ns: [Memory]  Read @ addr=0000c010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+20914.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+20914.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+20914.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+20914.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+20918.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+21114.000ns: [CPU] read addr=00008020
+Idle state
+Idle state
+Compare tag state
+21114.000ns: [FSM] Tag Write @ index=002 with tag=00002 with line_num = 00
+Allocating...
+21118.000ns: [Memory]  Read @ addr=00008020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+21218.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+21218.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+21218.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+21218.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+21222.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+21418.000ns: [CPU] read addr=00024020
+Idle state
+Compare tag state
+21418.000ns: [FSM] Tag Write @ index=002 with tag=00009 with line_num = 03
+Allocating...
+21422.000ns: [Memory]  Read @ addr=00024020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+21522.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+21522.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+21522.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+21522.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+21526.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+21722.000ns: [CPU] read addr=00040020
+Idle state
+Compare tag state
+21722.000ns: [FSM] Tag Write @ index=002 with tag=00010 with line_num = 01
+Allocating...
+21726.000ns: [Memory]  Read @ addr=00040020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+21826.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+21826.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+21826.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+21826.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+21830.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+22026.000ns: [CPU] read addr=0000c010
+Idle state
+Idle state
+Compare tag state
+22026.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+22026.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+22026.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Idle state
+
+
+22226.000ns: [CPU] read addr=00004010
+Idle state
+Compare tag state
+22226.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+22226.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+22226.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+22230.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+22426.000ns: [CPU] read addr=00010020
+Idle state
+Idle state
+Compare tag state
+22426.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+22426.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+22426.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+22430.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+22626.000ns: [CPU] read addr=00004010
+Idle state
+Idle state
+Compare tag state
+22626.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+22626.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+22626.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Idle state
+
+
+22826.000ns: [CPU] read addr=00040010
+Idle state
+Compare tag state
+22826.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+22826.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+22826.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Idle state
+
+
+23026.000ns: [CPU] read addr=00014020
+Idle state
+Idle state
+Compare tag state
+23026.000ns: [FSM] Tag Write @ index=002 with tag=00005 with line_num = 00
+Allocating...
+23030.000ns: [Memory]  Read @ addr=00014020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+23130.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+23130.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+23130.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+23130.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+23134.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+23330.000ns: [CPU] read addr=00004010
+Idle state
+Idle state
+Compare tag state
+23330.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+23330.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+23330.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Idle state
+
+
+23530.000ns: [CPU] read addr=00014010
+Idle state
+Compare tag state
+23530.000ns: [FSM] Tag Write @ index=001 with tag=00005 with line_num = 01
+Allocating...
+23534.000ns: [Memory]  Read @ addr=00014010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+23634.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+23634.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+23634.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+23634.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+23638.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+23834.000ns: [CPU] read addr=00004010
+Idle state
+Compare tag state
+23834.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+23834.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+23834.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+23838.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+24034.000ns: [CPU] read addr=00024010
+Idle state
+Compare tag state
+24034.000ns: [FSM] Tag Write @ index=001 with tag=00009 with line_num = 00
+Allocating...
+24038.000ns: [Memory]  Read @ addr=00024010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+24138.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+24138.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+24138.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+24138.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+24142.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+24338.000ns: [CPU] read addr=00008010
+Idle state
+Compare tag state
+24338.000ns: [FSM] Tag Write @ index=001 with tag=00002 with line_num = 02
+Allocating...
+24342.000ns: [Memory]  Read @ addr=00008010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+24442.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+24442.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+24442.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 2
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+24442.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+24446.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+24642.000ns: [CPU] read addr=00010020
+Idle state
+Idle state
+Compare tag state
+24642.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+24642.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+24642.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 2
+Compare tag state
+24646.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+24842.000ns: [CPU] read addr=0000c010
+Idle state
+Idle state
+Compare tag state
+24842.000ns: [FSM] Tag Write @ index=001 with tag=00003 with line_num = 01
+Allocating...
+24846.000ns: [Memory]  Read @ addr=0000c010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+24946.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+24946.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+24946.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+24946.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+24950.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+25146.000ns: [CPU] read addr=0001c010
+Idle state
+Compare tag state
+25146.000ns: [FSM] Tag Write @ index=001 with tag=00007 with line_num = 03
+Allocating...
+25150.000ns: [Memory]  Read @ addr=0001c010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+25250.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+25250.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+25250.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+25250.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 3
+Compare tag state
+25254.000ns, Hit at           3, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+25450.000ns: [CPU] read addr=00014010
+Idle state
+Compare tag state
+25450.000ns: [FSM] Tag Write @ index=001 with tag=00005 with line_num = 00
+Allocating...
+25454.000ns: [Memory]  Read @ addr=00014010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+25554.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+25554.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+25554.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 0
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+25554.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Compare tag state
+25558.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+25754.000ns: [CPU] read addr=0001c020
+Idle state
+Idle state
+Compare tag state
+25754.000ns: [FSM] Tag Write @ index=002 with tag=00007 with line_num = 01
+Allocating...
+25758.000ns: [Memory]  Read @ addr=0001c020 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+25858.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+25858.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+25858.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 1
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+25858.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 1
+Compare tag state
+25862.000ns, Hit at           1, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Idle state
+
+
+26058.000ns: [CPU] read addr=00014020
+Idle state
+Compare tag state
+26058.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 
+26058.000ns: [CPU] get data=ffffffff
+PLRU selection debug is 3
+flag1 :           1 flag2 :           1 flag3 :           1 flag4 :           1 flag5 :           0
+Compare tag state
+26058.000ns, Hit at           0, data_read : ffffffffffffffffffffffffffffffff, vstate is           0 
+Tag Hit Occurring Updating PLRU, the tag hit line number is 0
+Idle state
+
+
+26258.000ns: [CPU] read addr=00018010
+Idle state
+Idle state
+Compare tag state
+26258.000ns: [FSM] Tag Write @ index=001 with tag=00006 with line_num = 02
+Allocating...
+26262.000ns: [Memory]  Read @ addr=00018010 with data=ffffffffffffffffffffffffffffffff
+Allocate tag state
+Allocate tag state
+26362.000ns: [Memory] request finished
+Allocate tag state
+Allocate tag state
+Compare tag state
+26362.000ns, Hit at           2, data_read : ffffffffffffffffffffffffffffffff, vstate is           1 

@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../4203_lab3_code_handout_fall_2023/package_definitions.sv" \
+"../../../../../4203_lab3_code_handout_fall_2023/dm_cache_data_2.sv" \
+"../../../../../4203_lab3_code_handout_fall_2023/dm_cache_fsm.sv" \
+"../../../../lab3.srcs/sources_1/imports/4203_lab3_code_handout_fall_2023/testbench_2.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
